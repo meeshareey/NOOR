@@ -1,0 +1,5 @@
+{
+  "name": "NOOR",
+  "description": "An AI-powered search tool to help students understand the Arabic language and Islamic teachings. It searches the internet for information and books, providing answers in Arabic, English, and Hausa.",
+  "requestFramePermissions": []
+}
